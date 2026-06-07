@@ -13,11 +13,8 @@ A full-stack task management application built with **NestJS**, **React**, and *
 
 ## 🚀 Live Demo
 
-- **Frontend:** [task-manager-nest.vercel.app](https://task-manager-nest.vercel.app) *(coming soon)*
-- **Backend API:** [task-manager-nest-api.onrender.com](https://task-manager-nest-api.onrender.com) *(coming soon)*
-
----
-
+- **Frontend:** [task-manager-nest.vercel.app](https://task-manager-nest.vercel.app)
+- **Backend API:** [task-manager-nest-api.onrender.com](https://task-manager-nest-api.onrender.com)
 ## ✨ Features
 
 - 🔐 **User Authentication** — Register, Login with JWT tokens
